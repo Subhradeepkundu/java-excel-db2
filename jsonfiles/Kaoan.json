@@ -1,0 +1,113 @@
+
+   [
+         {
+            "id":1,
+
+            "studentname": "ankan",
+      
+            "schoolname":"Wrangle Hill Auto Auct & Slvg",
+
+             "address":"7457 Cowl St #70",
+
+             "city":"Bargate Ward",
+
+             "country":"England",
+
+             "postal":"DN36 5",
+ 
+             "phone":"01590-982428",
+
+             "email":"laquita@yahoo.com",
+
+             "doj":"2021-10-20"
+         },
+         {
+            "id":2,
+
+            "studentname": null,
+      
+            "schoolname":"Wrangle Hill Auto Auct & Slvg",
+
+             "address":"7457 Cowl St #70",
+
+             "city":"Bargate Ward",
+
+             "country":"England",
+
+             "postal":"DN36 5RP",
+ 
+             "phone":"01590-982428",
+
+             "email":"laquita@yahoo.com",
+
+             "doj":"2021-10-20"
+
+         },
+         {
+           "id":3,
+
+         "studentname":"kr",
+    
+         "schoolname":"Wrangle df Hill Auto Auct",
+
+         "address":"7457 Cl St",
+
+         "city":" Waram",
+
+         "country":"Aus",
+
+         "postal":"DN3667",
+
+         "phone":"01590-982478",
+
+          "email":"riyam24@google.com",
+
+          "doj":"2021-09-21"
+
+        },
+        {
+         "id":4,
+
+         "studentname":"krera",
+    
+         "schoolname":"Wrangle df Hill Auto Auct",
+
+         "address":"7457 Cl St",
+
+         "city":" Waram",
+
+         "country":"Aus",
+
+         "postal":"DN3667",
+
+         "phone":"01590-982478",
+
+          "email":"riyam24@google.com",
+
+          "doj":"2021-09-21"
+
+        },
+        {
+         "id":5,
+
+         "studentname":"asutosh",
+    
+         "schoolname":"Wrangle df Hill Auto Auct",
+
+         "address":"7457 Cl St",
+
+         "city":" Waram",
+
+         "country":"Aus",
+
+         "postal":"DN3667",
+
+         "phone":"01590-982478",
+
+          "email":"riyam24@google.com",
+
+          "doj":"2021-09-21"
+
+        }
+
+  ]
